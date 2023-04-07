@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab1_pi_VS2019", "lab1_pi_VS2019\lab1_pi_VS2019.csproj", "{B9744D93-B807-4DF9-8842-00F1BAFFB0C4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LabSetup", "LabSetup\LabSetup.vdproj", "{05565B4D-AAF2-4CB9-8BB1-55BA0B96ADBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9744D93-B807-4DF9-8842-00F1BAFFB0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9744D93-B807-4DF9-8842-00F1BAFFB0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9744D93-B807-4DF9-8842-00F1BAFFB0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9744D93-B807-4DF9-8842-00F1BAFFB0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05565B4D-AAF2-4CB9-8BB1-55BA0B96ADBA}.Debug|Any CPU.ActiveCfg = Debug
+		{05565B4D-AAF2-4CB9-8BB1-55BA0B96ADBA}.Debug|Any CPU.Build.0 = Debug
+		{05565B4D-AAF2-4CB9-8BB1-55BA0B96ADBA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C2EC86-6312-46E2-A362-6740DA1D9F3C}
+	EndGlobalSection
+EndGlobal
