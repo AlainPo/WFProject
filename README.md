@@ -22,11 +22,8 @@
 
 <img src="https://sun4-17.userapi.com/impg/eubg8FYJrIvzuvp2txj3jly0N6TjoSE8qqr9PQ/ux7N0-AlUYw.jpg?size=1338x692&quality=96&sign=dca25f62c62eff68aafaeb73089057ca&type=album" height = "400px"/>
 
-* работа над пользовательским интерфейсом;
 
-<img src="" height = "400px"/>
-
-* развертывание итогового приложения (папка LabSetup);
+* развертывание итогового приложения (директория /LabSetup);
 
 <img src="https://sun9-37.userapi.com/impg/mpBfnul8pkv5OAn0PLNday-n5fcHXV718NjIBQ/0ZUAx7Z2OUo.jpg?size=623x511&quality=96&sign=c1742af936197b152689a1ae72d5a964&type=album" height = "300px"/>
 
